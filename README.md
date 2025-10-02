@@ -2,8 +2,8 @@
 
 <div align="">
 
-![Yusuf's Stats](https://github-readme-stats.vercel.app/api?username=yusufbuyukbirer&theme=synthwave&show_icons=true&hide_border=true&count_private=true)  
+![Yusuf's Stats](https://github-readme-stats.vercel.app/api?username=yusufbuyukbirer&theme=radical&show_icons=true&hide_border=true&count_private=true)  
 
-![Yusuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbuyukbirer&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![Yusuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbuyukbirer&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 </div>
